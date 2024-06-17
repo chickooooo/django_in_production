@@ -1,0 +1,12 @@
+# cache
+__pycache__
+
+# environments
+env
+.env
+
+# databases
+db.sqlite3
+
+# database migrations
+migrations
